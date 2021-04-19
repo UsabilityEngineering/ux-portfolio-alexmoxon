@@ -5,5 +5,5 @@
 
 
 ## UX Journal
-[link to Journal!](/journals/j01.md)
-
+[link to Journal 1!](/journals/j01.md)
+[link to Journal 2!](/journals/j02.md)
