@@ -2,7 +2,7 @@
 
 
 ## UX Team Project
-
+[link to Doctor Verde!](https://usabilityengineering.github.io/DoctorVerde/)
 
 ## UX Journal
 [link to Journal 1!](/journals/j01.md)
